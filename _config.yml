@@ -57,9 +57,9 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 max_width: 930px
@@ -176,7 +176,21 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - assets/jupyter/
+  - _books/
+  - _news/
+  - _posts/
+  - _projects/
+  - _teachings/
   - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -333,7 +347,7 @@ external_links:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true
+  enabled: false
   widths:
     - 480
     - 800

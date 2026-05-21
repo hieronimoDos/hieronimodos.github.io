@@ -1,189 +1,321 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Georgios Kissas
+  label: Senior Data Scientist, Research
+  email: gkissas@ai.ethz.ch
+  phone: "+41 789699577"
+  location: Zurich, Switzerland
+  image: gkissas.jpg
+  summary: Researcher with extensive experience at the intersection of deep learning, applied mathematics, and science. Proven track record in developing innovative machine learning algorithms, ranging from large-scale simulations of physical systems to scientific discovery based on language modeling. Experienced in leading interdisciplinary research projects, mentoring junior researchers, and driving transformative innovations in data-driven science. Passionate about applying machine learning techniques to solve real-world challenges, with a particular interest in large scale AI for high impact societal applications.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: georgioskissas
+    - network: Google Scholar
+      username: gGvVfmAAAAAJ
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Seefeldstrasse 315
+    city: Zurich
+    postalCode: 8008
+    countryCode: CH
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    Awards:
+      - title: Gold Reviewer
+        date: 2026
+        awarder: ICML
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - title: EUROMECH Colloquium 662 Early Career Invited Talk Award
+        date: 2026
+
+      - title: AWS Free Credit
+        date: 2025
+        awarder: Trainium TPU Servers
+
+      - title: Top Reviewer
+        date: 2024
+        awarder: NeurIPS
+
+      - title: Asuera Stiftung Scholarship
+        date: 2023
+        awarder: ETH Zürich Foundation
+        summary: 120000 CHF
+
+      - title: Post Doctoral Fellowship
+        date: 2023
+        awarder: ETH AI Center
+        summary: 1.5% acceptance rate
+
+      - title: Outstanding TA Award
+        date: 2021
+        awarder: MEAM UPenn
+
+      - title: Gerondellis Foundation Scholarship Award
+        date: 2020
+
+      - title: MIT Travel Grant
+        date: 2019
+        awarder: Learning for Dynamical Systems and Control
+
+      - title: Doctoral Fellowship Award
+        date: 2018
+        awarder: University of Pennsylvania
+
+      - title: Limmat Stiftung Award
+        date: 2017
+        awarder: Award for Academic Excellence
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Swiss Data Science Center
+        position: Senior Data Scientist, Research
+        location: Switzerland
+        start_date: November 2025
+        end_date: Present
         highlights:
-          - Relativity
-          - Description 2.
+          - Development of novel deep learning algorithms for scientific discovery using language modeling, large scale AI with applications to Exascale Cosmological Astrophysics simulations, and industrial CFD applications.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
+      - company: ETH Zurich
+        position: Post Doctoral Researcher & Lecturer
         location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        start_date: June 2023
+        end_date: November 2025
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Joint Post Doctoral positions between the Applied Mathematics, Engineering and Computer Science.
+          - Development of novel deep learning algorithms for scientific discovery through language modeling, and first-principles AI with applications to dynamical systems.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: University of Pennsylvania, PI Lab
+        position: Research Assistant
+        location: Philadelphia, PA, USA
+        start_date: August 2018
+        end_date: May 2023
+        highlights:
+          - Worked in the areas of Deep Learning for physics simulations and precision medicine, Operator Learning, Fluid Dynamics for Cardiovascular Flows, Bayesian Inference, Deep Learning for Dynamical Systems and Sensitivity Analysis.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Education:
+      - institution: University of Pennsylvania
+        location: Philadelphia, PA, USA
+        area: Mechanical Engineering and Applied Mechanics
+        studyType: PhD
+        start_date: August 2018
+        end_date: May 2023
+        highlights:
+          - "Thesis: Towards digital twins for cardiovascular flows: A Hybrid Machine Learning and Computational Fluid Dynamics Approach"
+          - "Advisor: Paris Perdikaris"
+
+      - institution: National Technical University of Athens
+        location: Athens, Greece
+        area: Computational Mechanics (Fluids)
+        studyType: M.S.
+        end_date: May 2017
+        highlights:
+          - 2nd Highest GPA
+          - "Thesis: A computational study of Self-Consistent Field Theory for polymer interfaces"
+          - "Advisor: Doros Theodorou"
+
+      - institution: University of Patras
+        location: Patras, Greece
+        area: Mechanical and Aeronautical Engineering
+        studyType: Diploma
+        end_date: February 2015
+        highlights:
+          - Honors
+
+    Patents:
+      - bullet: "Computer Systems and Methods for Learning Operators, P. Perdikaris, G.J. Pappas, J. Seidman, G. Kissas - Provisional Patent Application 22-9935 (https://www.freepatentsonline.com/y2023/0214661.html)."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Reduced-Order Operator Learning through Perceivers: Dissecting the Hidden Mechanisms"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - S. Brivio
+          - G. Kissas
+          - A. Manzoni
+          - S. Mishra
+        releaseDate: 2026
+        summary: To appear in the arXiv.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "METRO: Metric-Enhanced Token Routing Operator"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - N. Koren
+          - T. Hofmann
+          - G. Kissas
+        releaseDate: 2026
+        summary: Under Review NeurIPS 2026.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Advectra: Asymmetric Latent Transport for Non-Stationary Physics"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - N. Koren
+          - T. Hofmann
+          - G. Kissas
+        releaseDate: 2026
+        summary: Under Review NeurIPS 2026.
+
+      - title: "Attention, Generators, and Semigroups: Structurally Stable Deep Transformers"
+        authors:
+          - G. Kissas
+          - B. Bonev
+          - O. Oikonomou
+          - L. Lingsch
+          - F. O. L. Chamon
+        releaseDate: 2025
+        summary: Under Review NeurIPS 2026.
+
+      - title: Neuro-Symbolic ODE Discovery with Latent Grammar Flow
+        authors:
+          - K. Yu
+          - E. Chatzi
+          - G. Kissas
+        releaseDate: 2026
+        publisher: arXiv preprint arXiv:2604.16232
+
+      - title: "Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Science"
+        authors:
+          - L. Lingsch
+          - G. Kissas
+          - J. Jakubik
+          - S. Mishra
+        releaseDate: 2026
+        publisher: arXiv preprint arXiv:2602.03915
+
+      - title: Neuro-Symbolic AI for Analytical Solutions of Differential Equations
+        authors:
+          - O. Oikonomou
+          - L. Lingsch
+          - D. Grund
+          - S. Mishra
+          - G. Kissas
+        releaseDate: 2025
+        publisher: Forty-Third International Conference on Machine Learning, 2026
+
+      - title: Accelerated Patient-Specific Calibration via Differentiable Hemodynamics Simulations
+        authors:
+          - D. Renner
+          - S. Mishra
+          - G. Kissas
+        releaseDate: 2026
+        publisher: arXiv preprint arXiv:2412.14572
+        summary: Under Review ACM TOMS.
+
+      - title: Grammar-based Ordinary Differential Equation Discovery
+        authors:
+          - K. Yu
+          - E. Chatzi
+          - G. Kissas
+        releaseDate: 2025
+        publisher: Mechanical Systems and Signal Processing, 240, p.113395
+
+      - title: Reduced order computational fluid dynamic simulations in the thoracic aorta are associated with disease recorded in a medical biobank
+        authors:
+          - R. Sokolow
+          - A. Bhattacharya
+          - G. Kissas
+          - E.W. Thompson
+          - C. Beeche
+          - S. Swago
+          - D. Zhang
+          - M. Viswanadha
+          - C. Morse
+          - J. Chirinos
+          - S. Damrauer
+        releaseDate: 2025
+        publisher: Scientific Reports, 15(1), p.39203
+
+      - title: "FUSE: Fast Unified Simulation and Estimation for PDEs"
+        authors:
+          - L.E. Lingsch
+          - D. Grund
+          - S. Mishra
+          - G. Kissas
+        releaseDate: 2024
+        publisher: Thirty-eighth Conference on Neural Information Processing Systems, 2024
+
+      - title: The Language of Hyperelastic Materials
+        authors:
+          - G. Kissas
+          - S. Mishra
+          - E. Chatzi
+          - L. De Lorenzis
+        releaseDate: 2024
+        publisher: Computer Methods in Applied Mechanics and Engineering, 428, p.117053
+
+      - title: Variational Autoencoding Neural Operators
+        authors:
+          - J.H. Seidman
+          - G. Kissas
+          - G.J. Pappas
+          - P. Perdikaris
+        releaseDate: 2023
+        publisher: International Conference on Machine Learning, 2023
+
+      - title: Learning Operators with Coupled Attention
+        authors:
+          - G. Kissas
+          - J.H. Seidman
+          - L.F. Guilhoto
+          - V.M. Preciado
+          - G.J. Pappas
+          - P. Perdikaris
+        releaseDate: 2022
+        publisher: Thirty-sixth Conference on Neural Information Processing Systems, Journal to Conference Track
+        summary: Spotlight.
+
+      - title: "NOMAD: Nonlinear Manifold Decoders for Operator Learning"
+        authors:
+          - J.H. Seidman
+          - G. Kissas
+          - P. Perdikaris
+          - G.J. Pappas
+        releaseDate: 2022
+        publisher: Thirty-sixth Conference on Neural Information Processing Systems
+        summary: Featured in the Paper of the Week section of DeepAI.
+
+      - title: Feasibility of Vascular Parameter Estimation for Assessing Hypertensive Pregnancy Disorders
+        authors:
+          - G. Kissas
+          - E. Hwuang
+          - E.W. Thompson
+          - N. Schwartz
+          - J.A. Detre
+          - W.R. Witschey
+          - P. Perdikaris
+        releaseDate: 2022
+        publisher: Journal of Biomechanical Engineering
+
+      - title: Scalable uncertainty quantification for deep operator networks using randomized priors
+        authors:
+          - Y. Yang
+          - G. Kissas
+          - P. Perdikaris
+        releaseDate: 2022
+        publisher: Computer Methods in Applied Mechanics and Engineering, 399, p.115399
+
+      - title: Learning Operators with Coupled Attention
+        authors:
+          - G. Kissas
+          - J.H. Seidman
+          - L.F. Guilhoto
+          - V.M. Preciado
+          - G.J. Pappas
+          - P. Perdikaris
+        releaseDate: 2022
+        publisher: Journal of Machine Learning Research, 23(215), pp.1-63
+
+      - title: "Machine learning in cardiovascular flows modeling: Predicting arterial blood pressure from non-invasive 4D flow MRI data using physics-informed neural networks"
+        authors:
+          - G. Kissas
+          - Y. Yang
+          - E. Hwuang
+          - W.R. Witschey
+          - J.A. Detre
+          - P. Perdikaris
+        releaseDate: 2020
+        publisher: Computer Methods in Applied Mechanics and Engineering, 358, p.112623
+        summary: Featured in the Most Cited Articles section of CMAME as one of the most cited papers of the years 2019-2023.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: ML Frameworks
+        keywords:
+          - Pytorch
+          - Jax
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Community Service:
+      - bullet: "**Reviewer for** NeurIPS, ICML, ICLR, Journal of Machine Learning Research, Computer Methods in Applied Mechanics and Engineering, Journal of Scientific Computing, Nature Communications."
