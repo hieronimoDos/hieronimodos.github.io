@@ -156,7 +156,7 @@ cv:
           - O. Oikonomou
           - L. Lingsch
           - F. O. L. Chamon
-        releaseDate: 2025
+        releaseDate: 2026
         summary: Under Review NeurIPS 2026.
 
       - title: Neuro-Symbolic ODE Discovery with Latent Grammar Flow
