@@ -1,12 +1,17 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: CV
+title: resume
 nav: true
 nav_order: 2
-cv_pdf: /assets/pdf/CV_Georgios_Kissas.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
 description:
-toc:
-  sidebar: left
 ---
+
+<div class="resume-pdf-wrapper">
+  <object data="{{ '/assets/pdf/CV_Georgios_Kissas.pdf' | relative_url }}" type="application/pdf" width="100%" height="1000px">
+    <p>
+      Your browser does not support embedded PDFs.
+      <a href="{{ '/assets/pdf/CV_Georgios_Kissas.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download the PDF</a>.
+    </p>
+  </object>
+</div>
