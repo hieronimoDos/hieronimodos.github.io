@@ -23,14 +23,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-joined-the-swiss-data-science-center-as-senior-data-scientist-research",
-          title: 'Joined the Swiss Data Science Center as Senior Data Scientist, Research.',
+        },{id: "news-our-paper-neuro-symbolic-ai-for-analytical-solutions-of-differential-equations-was-accepted-in-forty-third-international-conference-on-machine-learning",
+          title: 'Our paper Neuro-Symbolic AI for Analytical Solutions of Differential Equations was accepted in...',
           description: "",
-          section: "News",},{id: "news-gold-reviewer-icml-2026",
-          title: 'Gold Reviewer, ICML 2026.',
+          section: "News",},{id: "news-i-was-recognized-as-a-gold-reviewer-for-icml-2026",
+          title: 'I was recognized as a Gold Reviewer for ICML 2026.',
           description: "",
-          section: "News",},{id: "news-euromech-colloquium-662-early-career-invited-talk-award-2026",
-          title: 'EUROMECH Colloquium 662 Early Career Invited Talk Award, 2026.',
+          section: "News",},{id: "news-our-paper-neuro-symbolic-ode-discovery-with-latent-grammar-flow-was-accepted-in-spigm-icml-workshop-on-structured-probabilistic-inference-amp-amp-generative-modeling",
+          title: 'Our paper Neuro-Symbolic ODE Discovery with Latent Grammar Flow was accepted in SPIGM...',
+          description: "",
+          section: "News",},{id: "news-i-am-going-to-present-as-an-invited-speaker-to-physml-workshop-2026-in-oslo-check-it-out",
+          title: 'I am going to present as an invited speaker to PhysML Workshop 2026...',
           description: "",
           section: "News",},{
         id: 'social-cv',
