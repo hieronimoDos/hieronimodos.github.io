@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-05-21 12:00:00+0000
+date: 2026-05-24 12:00:00+0000
 inline: true
 related_posts: false
 ---
 
-Gold Reviewer, ICML 2026.
+I am going to present as an invited speaker to PhysML Workshop 2026 in Oslo. Check it out!
