@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Zurich, Switzerland</p>
-    <p><a href="mailto:gkissas@ai.ethz.ch">gkissas@ai.ethz.ch</a></p>
+    <p><a href="mailto:georgios.kissas@sdsc.ethz.ch">georgios.kissas@sdsc.ethz.ch</a></p>
     <p><a href="https://www.linkedin.com/in/georgioskissas/">LinkedIn</a></p>
     <p><a href="https://scholar.google.com/citations?user=gGvVfmAAAAAJ&hl=en">Google Scholar</a></p>
 
