@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-24'
 papers:
   gGvVfmAAAAAJ:0EnyYjriUFMC:
     citations: 5
@@ -14,7 +14,7 @@ papers:
     title: 'Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Science'
     year: '2026'
   gGvVfmAAAAAJ:9yKSN-GCB0IC:
-    citations: 827
+    citations: 841
     title: 'Machine learning in cardiovascular flows modeling: Predicting arterial blood pressure from non-invasive 4D flow MRI data using physics-informed neural networks'
     year: '2020'
   gGvVfmAAAAAJ:IjCSPb-OGe4C:
@@ -30,7 +30,7 @@ papers:
     title: Feasibility of vascular parameter estimation for assessing hypertensive pregnancy disorders
     year: '2022'
   gGvVfmAAAAAJ:UebtZRa9Y70C:
-    citations: 1
+    citations: 2
     title: Accelerated patient-specific calibration via differentiable hemodynamics simulations
     year: '2024'
   gGvVfmAAAAAJ:W7OEmFMy1HYC:
@@ -42,7 +42,7 @@ papers:
     title: The language of hyperelastic materials
     year: '2024'
   gGvVfmAAAAAJ:_FxGoFyzp5QC:
-    citations: 12
+    citations: 13
     title: 'FUSE: Fast unified simulation and estimation for PDEs'
     year: '2024'
   gGvVfmAAAAAJ:d1gkVwhDpl0C:
@@ -54,15 +54,15 @@ papers:
     title: Neuro-symbolic AI for analytical solutions of differential equations
     year: '2025'
   gGvVfmAAAAAJ:qjMakFHDy7sC:
-    citations: 178
+    citations: 180
     title: Learning operators with coupled attention
     year: '2022'
   gGvVfmAAAAAJ:u-x6o8ySG0sC:
-    citations: 143
+    citations: 147
     title: 'NOMAD: Nonlinear manifold decoders for operator learning'
     year: '2022'
   gGvVfmAAAAAJ:u5HHmVD_uO8C:
-    citations: 75
+    citations: 77
     title: Scalable uncertainty quantification for deep operator networks using randomized priors
     year: '2022'
   gGvVfmAAAAAJ:ufrVoPGSRksC:
