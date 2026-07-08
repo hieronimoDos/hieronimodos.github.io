@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-08'
 papers:
   gGvVfmAAAAAJ:0EnyYjriUFMC:
     citations: 5
@@ -14,7 +14,7 @@ papers:
     title: 'Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Science'
     year: '2026'
   gGvVfmAAAAAJ:9yKSN-GCB0IC:
-    citations: 842
+    citations: 847
     title: 'Machine learning in cardiovascular flows modeling: Predicting arterial blood pressure from non-invasive 4D flow MRI data using physics-informed neural networks'
     year: '2020'
   gGvVfmAAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: DIMENSIONALITY REDUCTION IN OPERATOR LEARNING
     year: Unknown Year
   gGvVfmAAAAAJ:WF5omc3nYNoC:
-    citations: 38
+    citations: 39
     title: The language of hyperelastic materials
     year: '2024'
   gGvVfmAAAAAJ:_FxGoFyzp5QC:
@@ -54,7 +54,7 @@ papers:
     title: Neuro-symbolic AI for analytical solutions of differential equations
     year: '2025'
   gGvVfmAAAAAJ:qjMakFHDy7sC:
-    citations: 181
+    citations: 182
     title: Learning operators with coupled attention
     year: '2022'
   gGvVfmAAAAAJ:u-x6o8ySG0sC:
@@ -62,7 +62,7 @@ papers:
     title: 'NOMAD: Nonlinear manifold decoders for operator learning'
     year: '2022'
   gGvVfmAAAAAJ:u5HHmVD_uO8C:
-    citations: 77
+    citations: 79
     title: Scalable uncertainty quantification for deep operator networks using randomized priors
     year: '2022'
   gGvVfmAAAAAJ:ufrVoPGSRksC:
