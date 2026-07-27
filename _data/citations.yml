@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
   gGvVfmAAAAAJ:0EnyYjriUFMC:
     citations: 5
@@ -7,16 +7,16 @@ papers:
     year: '2025'
   gGvVfmAAAAAJ:5nxA0vEk-isC:
     citations: 0
-    title: Reduced order computational fluid dynamic simulations in the thoracic aorta are associated with disease recorded in a medical biobank
+    title: Reduced order computational fluid dynamic simulations in the thoracic aorta are associated with disease recorded in a medical biobank.
     year: '2025'
   gGvVfmAAAAAJ:8k81kl-MbHgC:
     citations: 0
     title: 'Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Science'
     year: '2026'
   gGvVfmAAAAAJ:9yKSN-GCB0IC:
-    citations: 857
+    citations: 858
     title: 'Machine learning in cardiovascular flows modeling: Predicting arterial blood pressure from non-invasive 4D flow MRI data using physics-informed neural networks'
-    year: '2020'
+    year: '2019'
   gGvVfmAAAAAJ:IjCSPb-OGe4C:
     citations: 3
     title: 'Towards digital twins for cardiovascular flows: A hybrid machine learning and computational fluid dynamics approach'
@@ -38,7 +38,7 @@ papers:
     title: DIMENSIONALITY REDUCTION IN OPERATOR LEARNING
     year: Unknown Year
   gGvVfmAAAAAJ:WF5omc3nYNoC:
-    citations: 39
+    citations: 38
     title: The language of hyperelastic materials
     year: '2024'
   gGvVfmAAAAAJ:_FxGoFyzp5QC:
@@ -58,7 +58,7 @@ papers:
     title: Learning operators with coupled attention
     year: '2022'
   gGvVfmAAAAAJ:u-x6o8ySG0sC:
-    citations: 150
+    citations: 149
     title: 'NOMAD: Nonlinear manifold decoders for operator learning'
     year: '2022'
   gGvVfmAAAAAJ:u5HHmVD_uO8C:
