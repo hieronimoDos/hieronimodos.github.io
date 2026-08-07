@@ -1,22 +1,22 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   gGvVfmAAAAAJ:0EnyYjriUFMC:
-    citations: 5
+    citations: 8
     title: Grammar-based ordinary differential equation discovery
     year: '2025'
   gGvVfmAAAAAJ:5nxA0vEk-isC:
     citations: 0
-    title: Reduced order computational fluid dynamic simulations in the thoracic aorta are associated with disease recorded in a medical biobank.
+    title: Reduced order computational fluid dynamic simulations in the thoracic aorta are associated with disease recorded in a medical biobank
     year: '2025'
   gGvVfmAAAAAJ:8k81kl-MbHgC:
     citations: 0
     title: 'Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Science'
     year: '2026'
   gGvVfmAAAAAJ:9yKSN-GCB0IC:
-    citations: 858
+    citations: 870
     title: 'Machine learning in cardiovascular flows modeling: Predicting arterial blood pressure from non-invasive 4D flow MRI data using physics-informed neural networks'
-    year: '2019'
+    year: '2020'
   gGvVfmAAAAAJ:IjCSPb-OGe4C:
     citations: 3
     title: 'Towards digital twins for cardiovascular flows: A hybrid machine learning and computational fluid dynamics approach'
@@ -38,27 +38,27 @@ papers:
     title: DIMENSIONALITY REDUCTION IN OPERATOR LEARNING
     year: Unknown Year
   gGvVfmAAAAAJ:WF5omc3nYNoC:
-    citations: 38
+    citations: 40
     title: The language of hyperelastic materials
     year: '2024'
   gGvVfmAAAAAJ:_FxGoFyzp5QC:
     citations: 13
-    title: 'FUSE: Fast unified simulation and estimation for PDEs'
+    title: 'Fuse: Fast unified simulation and estimation for pdes'
     year: '2024'
   gGvVfmAAAAAJ:d1gkVwhDpl0C:
-    citations: 33
+    citations: 34
     title: Variational autoencoding neural operators
     year: '2023'
   gGvVfmAAAAAJ:hqOjcs7Dif8C:
-    citations: 3
+    citations: 4
     title: Neuro-symbolic AI for analytical solutions of differential equations
     year: '2025'
   gGvVfmAAAAAJ:qjMakFHDy7sC:
-    citations: 182
+    citations: 184
     title: Learning operators with coupled attention
     year: '2022'
   gGvVfmAAAAAJ:u-x6o8ySG0sC:
-    citations: 149
+    citations: 151
     title: 'NOMAD: Nonlinear manifold decoders for operator learning'
     year: '2022'
   gGvVfmAAAAAJ:u5HHmVD_uO8C:
