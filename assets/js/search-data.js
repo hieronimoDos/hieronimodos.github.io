@@ -35,6 +35,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-going-to-present-as-an-invited-speaker-to-physml-workshop-2026-in-oslo-check-it-out",
           title: 'I am going to present as an invited speaker to PhysML Workshop 2026...',
           description: "",
+          section: "News",},{id: "news-our-paper-neuro-symbolic-ai-for-analytical-solutions-of-differential-equations-was-presented-as-an-oral-contribution-at-the-greeks-in-ai-2026-symposium",
+          title: 'Our paper Neuro-Symbolic AI for Analytical Solutions of Differential Equations was presented as...',
+          description: "",
+          section: "News",},{id: "news-i-was-invited-to-serve-as-an-area-chair-for-iclr-2027",
+          title: 'I was invited to serve as an Area Chair for ICLR 2027.',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
