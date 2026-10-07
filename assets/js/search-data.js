@@ -41,6 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-serve-as-an-area-chair-for-iclr-2027",
           title: 'I was invited to serve as an Area Chair for ICLR 2027.',
           description: "",
+          section: "News",},{id: "news-our-papers-advectra-metro-and-phaedra-have-been-accepted-at-neurips-2026",
+          title: 'Our papers Advectra, METRO, and Phaedra have been accepted at NeurIPS 2026.',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
