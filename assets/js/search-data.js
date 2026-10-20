@@ -44,6 +44,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-papers-advectra-metro-and-phaedra-have-been-accepted-at-neurips-2026",
           title: 'Our papers Advectra, METRO, and Phaedra have been accepted at NeurIPS 2026.',
           description: "",
+          section: "News",},{id: "news-our-paper-rózsa-certified-equational-reasoning-is-now-available-on-arxiv-we-placed-6th-overall-on-the-gpt-oss-120b-leaderboard-and-8th-on-the-gemma-4-31b-it-leaderboard-in-stage-2-of-the-sair-mathematics-distillation-challenge-equational-theories",
+          title: 'Our paper Rózsa: Certified Equational Reasoning is now available on arXiv! We placed...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
