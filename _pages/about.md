@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Research Data Scientist at the Swiss Data Science Center of ETH Zurich, working on AI for science. My current research focuses on generative models for extreme-scale Lagrangian simulations of subsonic turbulence, verifiable scientific discovery, and verification-driven AI agents. I also develop geometry-aware neural operators and physically faithful representations of scientific data, including methods for [modeling transport](https://arxiv.org/abs/2610.05098), [learning on irregular geometries](https://arxiv.org/abs/2610.05100), and [discrete tokenization](https://arxiv.org/abs/2602.03915).
+I am a Senior Research Data Scientist at the Swiss Data Science Center of ETH Zurich, working on AI for science. My current research focuses on generative models for extreme-scale Lagrangian simulations of subsonic turbulence, verifiable scientific discovery, and verification-driven AI agents. I also develop geometry-aware neural operators and physically faithful representations of scientific data, including methods for modeling transport, learning on irregular geometries, and discrete tokenization.
 
 Previously, I was a Postdoctoral Researcher at the ETH AI Center, working with Siddhartha Mishra, Eleni Chatzi, and Laura De Lorenzis.
 
