@@ -32,6 +32,6 @@ I am a Senior Research Data Scientist at the Swiss Data Science Center of ETH Zu
 
 Previously, I was a Postdoctoral Researcher at the ETH AI Center, working with Siddhartha Mishra, Eleni Chatzi, and Laura De Lorenzis.
 
-I received my PhD from the University of Pennsylvania, advised by Prof. Paris Perdikaris. During my PhD, I worked on neural operators, generative modeling, and inverse problems, with applications to cardiovascular biomechanics and fluid dynamics.
+I received my PhD from the University of Pennsylvania, advised by Paris Perdikaris. During my PhD, I worked on neural operators, generative modeling, and inverse problems, with applications to cardiovascular biomechanics and fluid dynamics.
 
 Before that, I studied Computational Mechanics at the National Technical University of Athens, where I worked with Doros Theodorou, and Mechanical Engineering at the University of Patras.
